@@ -1,0 +1,19 @@
+.about-section {
+  background-color: var(--bg-color);
+}
+
+.about-content {
+  max-width: 600px;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.about-text p {
+  color: var(--text-secondary);
+  line-height: 1.8;
+  font-size: 1.05rem;
+}
